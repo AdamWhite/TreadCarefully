@@ -12,4 +12,4 @@ Built as a .Net Core 3.1 Console app
 
 ## Test
 
-Uses Automapper and Moq for testing and mocking
+Uses Nunit and Moq for testing and mocking
